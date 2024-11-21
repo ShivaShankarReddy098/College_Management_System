@@ -55,13 +55,13 @@ const data = [
   },
   {
     name: "Sep",
-    income: 3490,
-    expense: 4300,
+    income: 5490,
+    expense: 7300,
   },
   {
     name: "Oct",
-    income: 3490,
-    expense: 4300,
+    income: 2490,
+    expense: 8300,
   },
   {
     name: "Nov",
@@ -70,7 +70,7 @@ const data = [
   },
   {
     name: "Dec",
-    income: 3490,
+    income: 2490,
     expense: 4300,
   },
 ];

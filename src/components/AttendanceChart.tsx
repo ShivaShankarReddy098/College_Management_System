@@ -20,23 +20,23 @@ const data = [
   },
   {
     name: "Tue",
-    present: 70,
-    absent: 60,
+    present: 60,
+    absent: 40,
   },
   {
     name: "Wed",
-    present: 90,
-    absent: 75,
+    present: 80,
+    absent: 20,
   },
   {
     name: "Thu",
-    present: 90,
-    absent: 75,
+    present: 40,
+    absent: 55,
   },
   {
     name: "Fri",
-    present: 65,
-    absent: 55,
+    present: 85,
+    absent: 15,
   },
 ];
 
