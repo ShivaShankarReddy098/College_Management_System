@@ -6,14 +6,14 @@ export const teachersData = [
   {
     id: 1,
     teacherId: "1234567890",
-    name: "John Doe",
-    email: "john@doe.com",
+    name: "Shiva",
+    email: "shiva@98.com",
     photo:
       "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    phone: "1234567890",
-    subjects: ["Math", "Geometry"],
+    phone: "9898989898",
+    subjects: ["Math", "English"],
     classes: ["1B", "2A", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Physics", "Chemistry"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["History"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 5,
@@ -61,7 +61,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Music", "History"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 6,
@@ -73,7 +73,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Physics"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 7,
@@ -85,7 +85,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["English", "Spanish"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 8,
@@ -97,7 +97,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Math", "Geometry"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 9,
@@ -109,7 +109,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Literature", "English"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 10,
@@ -121,7 +121,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
 ];
 
@@ -129,14 +129,14 @@ export const studentsData = [
   {
     id: 1,
     studentId: "1234567890",
-    name: "John Doe",
-    email: "john@doe.com",
+    name: "Shiva Shankar Reddy",
+    email: "shiva@098.com",
     photo:
       "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
     grade: 5,
     class: "1B",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 2,
@@ -148,7 +148,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 3,
@@ -160,7 +160,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 4,
@@ -172,7 +172,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 5,
@@ -184,7 +184,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 6,
@@ -196,7 +196,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 7,
@@ -208,7 +208,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 8,
@@ -220,7 +220,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 9,
@@ -232,7 +232,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 10,
@@ -244,18 +244,18 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
 ];
 
 export const parentsData = [
   {
     id: 1,
-    name: "John Doe",
-    students: ["Sarah Brewer"],
-    email: "john@doe.com",
+    name: "Raju Reddy",
+    students: ["Shiva Shankar Reddy"],
+    email: "raju@01.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 2,
@@ -263,7 +263,7 @@ export const parentsData = [
     students: ["Cecilia Bradley"],
     email: "jane@doe.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 3,
@@ -271,7 +271,7 @@ export const parentsData = [
     students: ["Fanny Caldwell"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 4,
@@ -279,7 +279,7 @@ export const parentsData = [
     students: ["Mollie Fitzgerald", "Ian Bryant"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 5,
@@ -287,7 +287,7 @@ export const parentsData = [
     students: ["Mable Harvey"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 6,
@@ -295,7 +295,7 @@ export const parentsData = [
     students: ["Joel Lambert"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 7,
@@ -303,7 +303,7 @@ export const parentsData = [
     students: ["Carrie Tucker", "Lilly Underwood"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 8,
@@ -311,7 +311,7 @@ export const parentsData = [
     students: ["Alexander Blair"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 9,
@@ -319,7 +319,7 @@ export const parentsData = [
     students: ["Susan Webster", "Maude Stone"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
   {
     id: 10,
@@ -327,7 +327,7 @@ export const parentsData = [
     students: ["Stella Scott"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Bengaluru, IND",
   },
 ];
 
@@ -335,12 +335,12 @@ export const subjectsData = [
   {
     id: 1,
     name: "Math",
-    teachers: ["Alice Phelps", "Russell Davidson"],
+    teachers: ["Alice Phelps", "Shiva"],
   },
   {
     id: 2,
     name: "English",
-    teachers: ["Manuel Becker", "Eddie Chavez"],
+    teachers: ["Shiva", "Eddie Chavez"],
   },
   {
     id: 3,
@@ -390,7 +390,7 @@ export const classesData = [
     name: "1A",
     capacity: 20,
     grade: 1,
-    supervisor: "Joseph Padilla",
+    supervisor: "ShivaShankarReddy",
   },
   {
     id: 2,
@@ -462,13 +462,13 @@ export const lessonsData = [
     id: 1,
     subject: "Math",
     class: "1A",
-    teacher: "Tommy Wise",
+    teacher: "Shiva",
   },
   {
     id: 2,
     subject: "English",
     class: "2A",
-    teacher: "Rhoda Frank",
+    teacher: "Shiva",
   },
   {
     id: 3,
@@ -525,14 +525,14 @@ export const examsData = [
     id: 1,
     subject: "Math",
     class: "1A",
-    teacher: "Martha Morris",
+    teacher: "Shiva",
     date: "2025-01-01",
   },
   {
     id: 2,
     subject: "English",
     class: "2A",
-    teacher: "Randall Garcia",
+    teacher: "Shiva",
     date: "2025-01-01",
   },
   {
@@ -598,14 +598,14 @@ export const assignmentsData = [
     id: 1,
     subject: "Math",
     class: "1A",
-    teacher: "Anthony Boone",
+    teacher: "Shiva",
     dueDate: "2025-01-01",
   },
   {
     id: 2,
     subject: "English",
     class: "2A",
-    teacher: "Clifford Bowen",
+    teacher: "Shiva",
     dueDate: "2025-01-01",
   },
   {
@@ -671,18 +671,18 @@ export const resultsData = [
     id: 1,
     subject: "Math",
     class: "1A",
-    teacher: "John Doe",
-    student: "John Doe",
+    teacher: "Shiva",
+    student: "Shiva Shankar Reddy",
     date: "2025-01-01",
     type: "exam",
-    score: 90,
+    score: 98,
   },
   {
     id: 2,
     subject: "English",
     class: "2A",
-    teacher: "John Doe",
-    student: "John Doe",
+    teacher: "Shiva",
+    student: "Abhi",
     date: "2025-01-01",
     type: "exam",
     score: 90,
@@ -915,94 +915,93 @@ export const announcementsData = [
   },
 ];
 
-
 // YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
 export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 12, 8, 0),
-    end: new Date(2024, 7, 12, 8, 45),
+    start: new Date(2024, 11, 28, 8, 0),
+    end: new Date(2024, 11, 28, 8, 45),
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 12, 9, 0),
-    end: new Date(2024, 7, 12, 9, 45),
+    start: new Date(2024, 11, 28, 9, 0),
+    end: new Date(2024, 11, 28, 9, 45),
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 12, 10, 0),
-    end: new Date(2024, 7, 12, 10, 45),
+    start: new Date(2024, 11, 28, 10, 0),
+    end: new Date(2024, 11, 28, 10, 45),
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 12, 11, 0),
-    end: new Date(2024, 7, 12, 11, 45),
+    start: new Date(2024, 11, 28, 11, 0),
+    end: new Date(2024, 11, 28, 11, 45),
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 12, 13, 0),
-    end: new Date(2024, 7, 12, 13, 45),
+    start: new Date(2024, 11, 28, 13, 0),
+    end: new Date(2024, 11, 28, 13, 45),
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 12, 14, 0),
-    end: new Date(2024, 7, 12, 14, 45),
+    start: new Date(2024, 11, 28, 14, 0),
+    end: new Date(2024, 11, 28, 14, 45),
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 13, 9, 0),
-    end: new Date(2024, 7, 13, 9, 45),
+    start: new Date(2024, 11, 29, 9, 0),
+    end: new Date(2024, 11, 29, 9, 45),
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 13, 10, 0),
-    end: new Date(2024, 7, 13, 10, 45),
+    start: new Date(2024, 11, 29, 10, 0),
+    end: new Date(2024, 11, 29, 10, 45),
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 13, 11, 0),
-    end: new Date(2024, 7, 13, 11, 45),
+    start: new Date(2024, 11, 29, 11, 0),
+    end: new Date(2024, 11, 29, 11, 45),
   },
 
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 13, 14, 0),
-    end: new Date(2024, 7, 13, 14, 45),
+    start: new Date(2024, 11, 29, 14, 0),
+    end: new Date(2024, 11, 29, 14, 45),
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 14, 8, 0),
-    end: new Date(2024, 7, 14, 8, 45),
+    start: new Date(2024, 11, 30, 8, 0),
+    end: new Date(2024, 11, 30, 8, 45),
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 14, 10, 0),
-    end: new Date(2024, 7, 14, 10, 45),
+    start: new Date(2024, 11, 30, 10, 0),
+    end: new Date(2024, 11, 30, 10, 45),
   },
 
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 14, 13, 0),
-    end: new Date(2024, 7, 14, 13, 45),
+    start: new Date(2024, 11, 30, 13, 0),
+    end: new Date(2024, 11, 30, 13, 45),
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 14, 14, 0),
-    end: new Date(2024, 7, 13, 14, 45),
+    start: new Date(2024, 11, 30, 14, 0),
+    end: new Date(2024, 11, 30, 14, 45),
   },
   {
     title: "English",
